@@ -3,7 +3,7 @@
 //  NotifyDemo
 //
 //  Created by DP Bhatt on 17/05/2018.
-//  Copyright © 2018 Sensus ApS. All rights reserved.
+//  Copyright © 2018 AceMySkills. All rights reserved.
 //
 
 import UIKit
